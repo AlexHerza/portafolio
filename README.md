@@ -20,11 +20,11 @@ Diseño responsivo
 
 ## 📸 Captura de pantalla
 
-![App Screenshot](../../../Downloads/assets/imagenes(1).png)
+![App Screenshot](assets/imagenes-(3).png)
 
-![App Screenshot](../../../Downloads/assets/imagenes(2).png)
+![App Screenshot](assets/imagenes-(1).png)
 
 
 ## Authors
 
-- [@octokatherine](https://www.instagram.com/patryherzarate/)
+- [@patryherzarate](https://www.instagram.com/patryherzarate/)
